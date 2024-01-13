@@ -14,3 +14,8 @@ void meow()
 {
     printf("Meow Swayam");
 }
+
+void woof()
+{
+    printf("Woof");
+}
