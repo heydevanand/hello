@@ -15,4 +15,7 @@ void meow()
     printf("Meow Swayam");
 }
 
-// End of program
+void woof()
+{
+    printf("Woof");
+}
