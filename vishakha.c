@@ -9,5 +9,5 @@ int main()
 
 void meow()
 {
-    printf("Meow");
+    printf("Meow Swayam");
 }
